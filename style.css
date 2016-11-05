@@ -1,14 +1,9 @@
-body {
-                background-image: url("https://hawksworthrestaurant.com/wp-content/uploads/2013/12/Lamb-shoulder-depuylentil-celeriac-pumpkin-seed-tangerine-22.jpg");
-                background-repeat: no-repeat;
-                background-position: right top;
-            }
 
 h1 {
     color: darkgreen;
     text-align: center;
     font-family: verdana;
-    font-size: 24px;
+    font-size: 30px;
 }
 
 button:hover {
