@@ -11,10 +11,19 @@ button:hover {
     }
 
 .content p {
-  border:none;
-    background-color: none;
     padding-top: 50px;
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
+}
+
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #00FF89;
+  text-align: center;
 }
