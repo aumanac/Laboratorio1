@@ -1,29 +1,32 @@
-
 h1 {
     color: darkgreen;
     text-align: center;
     font-family: verdana;
     font-size: 30px;
 }
-
 button:hover {
       background: green;
     }
-
 .content p {
     padding-top: 50px;
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
+    color: white;
 }
-
-
 .footer {
+  color: white;
   position: absolute;
   right: 0;
   bottom: 0;
   left: 0;
   padding: 1rem;
-  background-color: #00FF89;
+  background-color: none;
   text-align: center;
+}
+.footer a {
+  color: white;
+}
+body {
+    background-image: url("http://static.tumblr.com/vy2pzfk/46zls6lto/deserve_bg.jpg");
 }
