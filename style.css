@@ -7,16 +7,17 @@ h1 {
 button:hover {
       background: green;
     }
-.content p {
+.description p {
     padding-top: 50px;
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
     color: white;
+    font-size: 20px;
 }
 .footer {
   color: white;
-  position: absolute;
+  position: fixed;
   right: 0;
   bottom: 0;
   left: 0;
@@ -26,7 +27,29 @@ button:hover {
 }
 .footer a {
   color: white;
+  text-align: center;
 }
 body {
     background-image: url("http://static.tumblr.com/vy2pzfk/46zls6lto/deserve_bg.jpg");
+}
+.nav1 {
+    text-align: center;
+}
+div.img {
+    margin: 80px;
+    border: 3px solid #ccc;
+    float: left;
+    width: 300px;
+}
+
+div.img:hover {
+    border: 3px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+.menu {
+    color: white;
 }
