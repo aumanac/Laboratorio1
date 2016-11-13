@@ -52,4 +52,15 @@ div.img img {
 }
 .menu {
     color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.contacto {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
 }
